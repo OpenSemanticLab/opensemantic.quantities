@@ -14,7 +14,7 @@
 
 # opensemantic.quantities
 
-> The Python equivalent of the quantities page package world.opensemantic.quantities
+> Library with Python models derived from the page package world.opensemantic.quantities.
 
 A longer description of your project goes here...
 
